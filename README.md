@@ -113,6 +113,15 @@ print("RMSE:", rmse)
 
 
 
+![44](https://github.com/user-attachments/assets/1466f71c-e3ad-42c9-ae8c-5e1962711e23)
+
+
+
+![333](https://github.com/user-attachments/assets/4829f12d-b72d-4aab-9be5-78887e7bd77c)
+
+
+
+
 
 ### RESULT:
 Thus the program run successfully based on the SARIMA model.
